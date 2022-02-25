@@ -1,3 +1,6 @@
 step 1: find a company
 step 2: call number
 step 3: order pizza you want
+step 4: Receive the pizza and give the delivery guy tip
+step 5: enjoy your pizza
+step 6: don't forget to drink coke
