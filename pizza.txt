@@ -3,3 +3,5 @@ step 2: call number
 what if i delete existed lines.
 
 to test git status, i am making changes
+
+wonder if i have to push or just commit is ok to merge git. testing here again
